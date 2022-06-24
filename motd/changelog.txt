@@ -1,8 +1,5 @@
-⚪ Removed Look Around (Client Crashes)
-⚪ Updated Chocolate Bar
-⚪ Added Purpeille
-⚪ Added Consistency+
-⚪ Added Soul Ice
-⚪ Tweaked Gobber Armor recipes
-⚪ Tweaked Advanced Netherite recipes
-⚪ Added Structures (Sweet Settlement, Green Settlement) Credits to MysticOne
++ Added a new structure Giant House and new loot for the Create mod
++ Updated Storage Cabinet
++ Added Inventory Tabs
++ Added BE Style Wither
+- Removed Tool Leveling (bug with lang entries not displaying values)
