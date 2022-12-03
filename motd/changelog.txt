@@ -30,3 +30,5 @@
 - Removed Industrial Revolution
 - Removed JurneyMap
 - Removed Get off my Lawn
+- Removed Architects Palette
+- Removed Visual Overhaul
