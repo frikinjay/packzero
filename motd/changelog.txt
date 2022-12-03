@@ -1,5 +1,32 @@
-+ Added a new structure Giant House and new loot for the Create mod
-+ Updated Storage Cabinet
-+ Added Inventory Tabs
-+ Added BE Style Wither
-- Removed Tool Leveling (bug with lang entries not displaying values)
++ Update Mods
++ Added Ad Astra
++ Added Tech Reborn
++ Added Advanced Reborn
++ Added Quarry Reborn
++ Added Tech Reborn Patchouli
++ Added Hephaestus (Tinker's Construct)
++ Added Xaeros World Map
++ Added Xaeros Mini Map
++ Added Open Parties and Claims
++ Added Fancy Dyes
++ Added Terra
++ Added Yungs Better Ocean Monuments
++ Added Yungs Better Witch Huts
++ Added Yungs Better Dessert Temples
++ Added Yungs Better Dungeons
++ Added Rotten Creatures
++ Added ME Requester
++ Added Wild Backport
+- Removed More Axolotl Variants Mod
+- Removed Wraiths Alloy Forgery
+- Removed Chisel And Bits
+- Removed Tweakeroo
+- Removed Golems Galore
+- Removed Paradise Lost
+- Removed Forgero
+- Removed Critical Orientation
+- Removed BanHammer
+- Removed Fabrishot
+- Removed Industrial Revolution
+- Removed JurneyMap
+- Removed Get off my Lawn
