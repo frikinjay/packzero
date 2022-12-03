@@ -1,3 +1,5 @@
+WARNING: This update removes and adds quite a few things including addition of a world gen mod, please backup your world before opening it.
+
 + Update Mods
 + Added Ad Astra
 + Added Tech Reborn
