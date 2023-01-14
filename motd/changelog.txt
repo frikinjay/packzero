@@ -1,6 +1,6 @@
 <<>> Please backup your world before opening it. <<>>
 
-+ Update Mods
++ Updated Mods
 + Immersive Aircraft
 + Doggo Mod Overhauled
 + Gottagofast
