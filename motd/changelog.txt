@@ -2,6 +2,7 @@
 
 + Updated Mods
 + Immersive Aircraft
++ Dark Utilities
 + Doggo Mod Overhauled
 + Gottagofast
 + EZR Storage
